@@ -10,3 +10,6 @@ int main()
  
     return 0;
 }
+OUT PUT:
+
+11 22 33 44 55
