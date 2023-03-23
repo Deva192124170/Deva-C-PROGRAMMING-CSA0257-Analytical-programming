@@ -6,3 +6,7 @@ int main()
     printf(a, 65);  
     return 0;  
 }
+
+
+OUT PUTl:
+A
