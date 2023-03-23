@@ -14,3 +14,10 @@ int main()
     printf("%s",stri);  
     return 0;  
 }
+
+
+
+OUT PUT:
+Enter the string
+:DEVA
+DEVA
