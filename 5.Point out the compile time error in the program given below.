@@ -5,3 +5,6 @@ int main()
     *x=100;
     return 0;
 }
+OUT PUT:
+
+NO ERROR
